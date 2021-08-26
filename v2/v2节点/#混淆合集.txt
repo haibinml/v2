@@ -1,0 +1,9 @@
+爱奇艺:data.video.qiyi.com或data6.video.iqiyi.com
+抖音(今日头条):v9-dy.ixigua.com或dm.toutiao.com
+快手:txdwkmov.a.yximgs.com
+优酷:m-vali.cp31.ott.cibntv.net
+腾讯视频:vipcdn.video.qq.com
+书旗:spend1.shuqireader.com
+联通手厅:pull.free.video.10010.com(湖北,广东不免)
+微博:f.video.weibocdn.com
+哔哩哔哩:upos-tf-all-js.bilivideo.com
